@@ -14,6 +14,19 @@ Email: xiaoli_wei@sz.tsinghua.edu.cn
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Research  
 My research interests lie in stochastic controls and stochastic differential games and their applications to financial mathematics. I also have developed interests in the interface of machine learning with stochastic controls, stochastic differential games, and financial mathematics.  
   
