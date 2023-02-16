@@ -5,7 +5,7 @@
 
   
 
-<img src="https://github.com/Xiaoli-Wei/math/blob/main/EmbeddedImage.jpg?raw=true" align="left" style="width: 100%" />  
+<img src="https://github.com/Xiaoli-Wei/math/blob/main/EmbeddedImage.jpg?raw=true" align="left" style="width: 80%" />  
   
 
 </td><td valign="top" width="80%">
