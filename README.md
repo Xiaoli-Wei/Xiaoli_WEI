@@ -1,7 +1,7 @@
 ## Welcome to Xiaoli Wei's homepage  
   
 
-<img src="https://github.com/Xiaoli-Wei/math/blob/main/%E5%9B%9B%E4%B8%8D%E7%9B%B8.jpg" align="left" style="width: 100%" />  
+<img src="https://lh5.googleusercontent.com/nUfOFs6O2xYvgedPFAgFyLh97l1278vLoL2dt4-_yDnQ1zZlIQ2FB_qSGVhB2HKIZGLG2_bpcJde11Yr5iu3Nme1wpogbqshl8X6pqPCX4-s98A-=w1280" align="left" style="width: 100%" />  
   
 
 
@@ -21,25 +21,25 @@ My research interests lie in stochastic controls and stochastic differential gam
 - (with H. Gu, X. Guo, and R. Xu) Mean-Field Multi-Agent Reinforcement Learning: A Decentralized Network Approach, Submitted.  
   
 
-- (with X.Guo and H. Pham) Itô's formula for flow of measures on semimartingales, submitted.
-
-(with H. Gu, X. Guo and R. Xu) Mean-Field Controls with Q-learning for Cooperative MARL: Convergence and Complexity Analysis,  To appear, SIAM Journal on Mathematics of Data Science (SIMODS) .
-
-(with H. Gu, X. Guo and R. Xu) Dynamic Programming Principle for Mean-Field Controls with Learning, submitted.
-
-(with H. Pham and C. Zhou) Portfolio diversification and model uncertainty: a robust dynamic mean-variance approach, To appear, Mathematical Finance.
-
-(with H. Pham) Bellman equation and viscosity solutions for mean-field stochastic control problem, ESAIM: COCV, 24(1), 437-461, 2018.
-
-(with H. Pham) Dynamic programming for optimal control of stochastic McKean-Vlasov dynamics, SIAM Journal on Control and Optimization, 55(2), 1069-1101, 2017.
-
-(with H. Pham) Discrete time McKean-Vlasov control problem: a dynamic programming approach, Applied Mathematics and Optimization, 74(3), 487-506, 2016.  
+- (with X.Guo and H. Pham) Itô's formula for flow of measures on semimartingales, submitted.  
   
 
-<br/>  
+- (with H. Gu, X. Guo and R. Xu) Mean-Field Controls with Q-learning for Cooperative MARL: Convergence and Complexity Analysis,  To appear, SIAM Journal on Mathematics of Data Science (SIMODS) .  
+  
 
+- (with H. Gu, X. Guo and R. Xu) Dynamic Programming Principle for Mean-Field Controls with Learning, submitted.  
+  
 
-## Research  
+- (with H. Pham and C. Zhou) Portfolio diversification and model uncertainty: a robust dynamic mean-variance approach, To appear, Mathematical Finance.  
+  
+
+- (with H. Pham) Bellman equation and viscosity solutions for mean-field stochastic control problem, ESAIM: COCV, 24(1), 437-461, 2018.  
+  
+
+- (with H. Pham) Dynamic programming for optimal control of stochastic McKean-Vlasov dynamics, SIAM Journal on Control and Optimization, 55(2), 1069-1101, 2017.  
+  
+
+- (with H. Pham) Discrete time McKean-Vlasov control problem: a dynamic programming approach, Applied Mathematics and Optimization, 74(3), 487-506, 2016.  
 
 <br />
 
