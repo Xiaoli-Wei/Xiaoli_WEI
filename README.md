@@ -7,9 +7,15 @@
 
 
 ### About me  
-Currently I am an assistant professor at Tsinghua-Berkeley Shenzhen Institute.  I was a post-doc at University of California, Berkeley under the supervision of Professor Xin Guo. Previously I obtained my Ph.D. degree at Université Paris Diderot under the supervision of Professor Huyên Pham in 2018. 
+- Currently I am an assistant professor at Tsinghua-Berkeley Shenzhen Institute.  
 
-Email: xiaoli_wei@sz.tsinghua.edu.cn  
+
+- I was a post-doc at University of California, Berkeley under the supervision of Professor Xin Guo. 
+
+
+- Previously I obtained my Ph.D. degree at Université Paris Diderot under the supervision of Professor Huyên Pham in 2018. 
+
+- Email: xiaoli_wei@sz.tsinghua.edu.cn  
   
 
 
