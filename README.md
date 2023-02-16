@@ -1,7 +1,7 @@
 ## Welcome to Xiaoli Wei's homepage  
   
 
-<img src="https://lh5.googleusercontent.com/nUfOFs6O2xYvgedPFAgFyLh97l1278vLoL2dt4-_yDnQ1zZlIQ2FB_qSGVhB2HKIZGLG2_bpcJde11Yr5iu3Nme1wpogbqshl8X6pqPCX4-s98A-=w1280" align="left" style="width: 100%" />  
+<img src="https://github.com/Xiaoli-Wei/math/blob/main/EmbeddedImage.jpg?raw=true" align="left" style="width: 40%" />  
   
 
 
