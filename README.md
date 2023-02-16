@@ -1,10 +1,14 @@
-## Welcome to Xiaoli Wei's homepage  
+## Welcome to Xiaoli Wei's homepage
+
+<table><tr><td valign="top" width="20%">
+
+
   
 
-<img src="https://github.com/Xiaoli-Wei/math/blob/main/EmbeddedImage.jpg?raw=true" align="left" style="width: 20%" />  
+<img src="https://github.com/Xiaoli-Wei/math/blob/main/EmbeddedImage.jpg?raw=true" align="left" style="width: 100%" />  
   
 
-
+</td><td valign="top" width="80%">
 
 ### About me  
 - Currently I am an assistant professor at Tsinghua-Berkeley Shenzhen Institute.  
