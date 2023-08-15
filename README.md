@@ -11,7 +11,6 @@
 
 - Currently I am an associate professor at [Institute for Advanced Study in Mathematics (IASM)](http://im.hit.edu.cn/en/) of Harbin Institute of Technology.<br /> 
 
-
 - Before joining IASM, I have been working as an assistant professor at Tsinghua-Berkeley Shenzhen Institute.<br />
 
 - I was a post-doc at University of California, Berkeley under the supervision of Professor [Xin Guo](https://xinguo.ieor.berkeley.edu/). <br />
