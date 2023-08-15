@@ -11,7 +11,7 @@
 </td><td valign="top" width="80%">
 
 ### About me  
-- Currently I am an associate professor at Institute for Advanced Study in Mathematics [IASM](http://im.hit.edu.cn/en/) of Harbin Institute of Technology. 
+- Currently I am an associate professor at [Institute for Advanced Study in Mathematics (IASM)](http://im.hit.edu.cn/en/) of Harbin Institute of Technology. 
 
 
 - Before joining IASM, I have been working as an assistant professor at Tsinghua-Berkeley Shenzhen Institute.
