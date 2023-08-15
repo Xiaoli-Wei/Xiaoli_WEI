@@ -62,8 +62,3 @@ My research interests lie in stochastic controls and stochastic differential gam
   
 
 - (with H. Pham) Discrete time McKean-Vlasov control problem: a dynamic programming approach, Applied Mathematics and Optimization (2016).  <br />
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
