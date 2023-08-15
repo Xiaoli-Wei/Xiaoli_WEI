@@ -2,15 +2,13 @@
 
 <table><tr><td valign="top" width="20%"><br />
 
-
-  
-
 <img src="https://github.com/Xiaoli-Wei/math/blob/main/EmbeddedImage.jpg?raw=true" align="left" style="width: 90%" />  
   
-
 </td><td valign="top" width="80%">
 
+
 ### About me  
+
 - Currently I am an associate professor at [Institute for Advanced Study in Mathematics (IASM)](http://im.hit.edu.cn/en/) of Harbin Institute of Technology.<br /> 
 
 
